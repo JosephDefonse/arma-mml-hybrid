@@ -93,6 +93,7 @@ For a complete understanding, refer to the report: **"Mathematical Proofs and Co
 - **`arma.ipynb`**: Jupyter Notebook implementing ARMA model forecasting and predictions on stock data.
 - **`lstm.ipynb`**: Jupyter Notebook implementing ARIMA-LSTM hybrid model forecasting and predictions on the same dataset.
 - **`MMM_full.csv`**: The dataset containing stock data used for modeling and prediction.
+- **`results.xlsx`**: The results from the ARMA and ARMA-LSTM models (comparing with report).
 - **`Mathematical Proofs and Concepts in Time Series Analysis for Stock Predictions Using ARIMA-LSTM Hybrid Model.pdf`**: A comprehensive report detailing the theoretical and mathematical foundations, implementation, and results.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
